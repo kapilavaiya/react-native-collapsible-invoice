@@ -9,6 +9,7 @@ import {
     View,
     Dimensions,
     UIManager,
+    Platform,
     LayoutAnimation,
     TouchableOpacity
 } from 'react-native';
