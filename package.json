@@ -1,6 +1,6 @@
 {
   "name": "react-native-collapsible-invoice",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Animated collapsible invoice component for react native",
   "main": "src/index.js",
   "scripts": {
