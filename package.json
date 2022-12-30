@@ -6,6 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avaiyakapil/react-native-collapsible-invoice.git"
+  },
+  "keywords": [
+    "invoice",
+    "animated-invoice",
+    "collapsible-invoice",
+    "react",
+    "react-native-invoice",
+    "react-component",
+    "react-native-collapsible-animated-invoice"
+  ],
   "author": "",
   "license": "ISC"
 }
