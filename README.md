@@ -48,7 +48,6 @@ import AnimatedInvoice from 'react-native-collapsible-invoice';
           triangleHeight={10}
           barStyle={{ backgroundColor: 'white', }}
           triangleStyle={{ backgroundColor: 'white' }}
-          trianglesWidth={300}
           iconColor={'black'}
           barComponent={ <Your Component/> }
         >
