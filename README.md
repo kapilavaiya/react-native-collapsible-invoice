@@ -8,3 +8,6 @@ A simple and customizable React Native animataed invoice or list component. Perf
 ## Example
 
 ## [Try this exapmple on Expo Snack ❤️](https://snack.expo.dev/@smartcoder0786/react-native-collapsible-invoice)
+
+![](Demo/example_ios.gif)
+![](Demo/example_android.gif)
