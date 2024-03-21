@@ -5,6 +5,11 @@
 
 A simple and customizable React Native animataed invoice or list component. Perfect for the E-commerce applications to show the list of bills or invoice in the user orders section. 
 
+![](https://user-images.githubusercontent.com/20586489/194037825-92efe72b-2e00-407d-8b18-ab949a85e1ea.mp4)
+
+<a href="https://www.buymeacoffee.com/kapilavaiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 ## Example
 
 ## [Try this exapmple on Expo Snack ❤️](https://snack.expo.dev/@avaiyakapil/react-native-collapsible-animated-invoice)
